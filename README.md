@@ -16,3 +16,9 @@ Weather condition display
 
 Responsive UI
 
+DEMO
+https://forecast-by-clima.netlify.app/
+
+Author
+Mehak Khan
+
